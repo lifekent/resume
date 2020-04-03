@@ -35,43 +35,44 @@ I have experience in architecting APIs and other solutions using modern programm
 
 
 # MORE TECHNICAL DETAILS
-##### Languages and frameworks 
-###### PHP
+### LANGUAGES AND FRAMEWORKS
+##### PHP
 - **Laravel** - in-depth knowledge of versions 4/5, experience with a new version 6, for building both REST API only and MVC solutions 
 - **Symfony 4** - experience in building a high scalable REST API architecture for SaaS product
 - **Lumen** - used for building thin and fast analytics microservices as backends and endpoints in pair with Elastic Seach, MongoDB
 - **Yii2, Codeigniter** - as MVC frameworks for various commercial products
 
-###### JavaScript
+##### JavaScript
 - ReactJS (SaaS and other production experience)
 - jQuery
 - AngularJS
 - basics of Nodejs
 
-##### RDBMS
+### RDBMS
 - MySQL (f.e. handled millions of records of financial funds data from different sources)
 - PostgreSQL
 
-##### NoSQL
+### NoSQL
 - MongoDB (aggregations, map/reduce for analytics and other)
 - Redis including pub/sub, queues
 - InfluxDB
 
-##### Search and analytics engines
+### SEARCH AND ANALYTICS ENGINES
 - Elastic Search
 - Sphinxsearch
 
-##### Operations
+##### OPERATIONS
 - AWS ECS, EC2, SQS, ElastiCache, S3 etc, from secure setup to autoscaling
 - Digital Ocean
 - Heroku
 - Elastic Cloud
 - Compose.io
 
-##### Testing
+##### TESTING
 - TDD (PHPUnit, Codeception)
+- API testing
 
-##### Continuous integration
+##### CONTINUOUS INTEGRATION
 - Jenkins
 - TeamCity
 - Codeship
