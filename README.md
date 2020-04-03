@@ -52,7 +52,7 @@ I have experience in architecting APIs and other solutions using modern programm
 - MySQL (f.e. handled millions of records of financial funds data from different sources)
 - PostgreSQL
 
-### NoSQL
+### NOSQL
 - MongoDB (aggregations, map/reduce for analytics and other)
 - Redis including pub/sub, queues
 - InfluxDB
@@ -61,18 +61,18 @@ I have experience in architecting APIs and other solutions using modern programm
 - Elastic Search
 - Sphinxsearch
 
-##### OPERATIONS
+### OPERATIONS
 - AWS ECS, EC2, SQS, ElastiCache, S3 etc, from secure setup to autoscaling
 - Digital Ocean
 - Heroku
 - Elastic Cloud
 - Compose.io
 
-##### TESTING
+### TESTING
 - TDD (PHPUnit, Codeception)
 - API testing
 
-##### CONTINUOUS INTEGRATION
+### CONTINUOUS INTEGRATION
 - Jenkins
 - TeamCity
 - Codeship
