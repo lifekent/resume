@@ -34,7 +34,7 @@ I have experience in architecting APIs and other solutions using modern programm
 - Scripting and automation experience
 
 
-# MORE TECHNICAL DETAILS
+# More technical details
 ### LANGUAGES AND FRAMEWORKS
 ##### PHP
 - **Laravel** - in-depth knowledge of versions 4/5, experience with a new version 6, for building both REST API only and MVC solutions 
