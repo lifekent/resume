@@ -1,5 +1,5 @@
 # General
-With over 7 years of web development, I have a firm grasp on managing all facets of large-scale enterprise applications development, from initial system design to deployment. I alwyas improve understanding of architecture, optimization and security to improve scalability, performance and profits
+With over 7 years of web development, I have a firm grasp on managing all facets of large-scale enterprise applications development, from initial system design to deployment. I alwyas keep up to date understanding of architecture, optimization and security to improve scalability, performance and profits
 
 # Links
 **LinkedIn**: https://www.linkedin.com/in/lifekent/
@@ -17,7 +17,7 @@ Hands-on experience in leading development teams in stressful, deadline-oriented
 - [Certified Scrum Master](https://www.scrumalliance.org/community/profile/rnehrulenk "Scrum Master")
 
 ### BACKEND DEVELOPMENT
-I have experience in architecting APIs and other solutions using modern programming languages
+Architecting APIs and other solutions using modern programming languages
 - PHP(Laravel/Lumen, Symfony, Yii2, CodeIgniter)
 - Java
 - Go
@@ -60,7 +60,7 @@ I have experience in architecting APIs and other solutions using modern programm
 - Sphinxsearch
 
 ### OPERATIONS
-- AWS ECS, EC2, SQS, ElastiCache, S3 etc, from secure setup to autoscaling
+- AWS EC2, ECS, SQS, ElastiCache, S3 etc, from secure setup to autoscaling
 - Digital Ocean
 - Heroku
 - Elastic Cloud
