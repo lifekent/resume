@@ -60,7 +60,8 @@ Architecting APIs and other solutions using modern programming languages
 - Sphinxsearch
 
 ### OPERATIONS
-- AWS EC2, ECS, SQS, ElastiCache, S3, etc from secure setup to autoscaling
+From secure setup to autoscaling
+- AWS EC2, ECS, SQS, ElastiCache, S3, etc
 - Digital Ocean
 - Heroku
 - Elastic Cloud
