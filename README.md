@@ -18,7 +18,7 @@ Hands-on experience in leading development teams in stressful, deadline-oriented
 
 ### BACKEND DEVELOPMENT
 I have experience in architecting APIs and other solutions using modern programming languages
-- PHP (Laravel/Lumen, Symfony, Yii2, CodeIgniter)
+- PHP(Laravel/Lumen, Symfony, Yii2, CodeIgniter)
 - Java
 - Go
 
@@ -28,11 +28,9 @@ I have experience in architecting APIs and other solutions using modern programm
 - JavaScript (ReactJS + Redux, AngularJS, jQuery)
 
 ### OPERATIONS
-
 - AWS, Digital Ocean, Compose services
 - Docker experience including compose
 - Scripting and automation experience
-
 
 # More technical details
 ### LANGUAGES AND FRAMEWORKS
